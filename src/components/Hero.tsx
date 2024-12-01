@@ -31,7 +31,7 @@ export const Hero = () => {
         </div>
 
         <p className="text-gray-400 mb-8 max-w-2xl mx-auto">
-          Crafting beautiful, user-centric digital experiences with clean code and innovative solutions.
+          Crafting beautiful, user-centric digital experiences with clean code and innovative solutions.With experience in Full Stack Development, FrontEnd Development and Problem Solving.
         </p>
 
         <div className="flex flex-col sm:flex-row items-center justify-center gap-4 mb-12">

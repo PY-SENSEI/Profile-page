@@ -17,7 +17,7 @@ export const Hero = () => {
         <motion.h1
           className="text-5xl md:text-7xl font-bold mb-4 bg-gradient-to-r from-cyan-400 to-blue-500 bg-clip-text text-transparent"
         >
-          John Doe
+        Gaurav Jena
         </motion.h1>
 
         <div className="text-2xl md:text-3xl text-gray-300 mb-6 h-12">
